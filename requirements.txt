@@ -1,0 +1,3 @@
+# Python standard libraries used for this project
+pandas
+numpy
